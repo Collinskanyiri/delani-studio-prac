@@ -1,4 +1,4 @@
-# Delani-Studio
+# Delani-Studio 2021
 
 ## Author
 
@@ -32,5 +32,5 @@ please email me at [collinskanyiri@gmail.com]
 
 ## License
 * *MIT License:*
-* Copyright (c) 2019 **Collins Kanyiri**
+* Copyright (c) 2021 **Collins Kanyiri**
 
