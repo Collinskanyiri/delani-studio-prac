@@ -145,7 +145,7 @@ input[type=email],
     font-family: 'Copse', serif;
 }
 
-.form-control::-webkit-input-placeholder {
+.FormSize::-webkit-input-placeholder {
     color: white;
 }
 
